@@ -12,6 +12,7 @@ $ go get -u -v github.com/beego/bee
 	export PATH="$GOPATH/bin:$PATH"
 	//然后保存退出
 	$ source .bashrc
+	
 #mysql
 #mysql-driver
 go get -u -v github.com/go-sql-driver/mysql
