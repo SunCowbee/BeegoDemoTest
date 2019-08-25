@@ -1,8 +1,11 @@
 # BeegoDemoTest
 
 ENVIRONMENT REQUIRED:
+
 #ubuntu
+
 #go
+
 #beego
 $ go get -u -v github.com/astaxie/beego
 $ go get -u -v github.com/beego/bee
@@ -14,7 +17,9 @@ $ go get -u -v github.com/beego/bee
 	$ source .bashrc
 	
 #mysql
+
 #mysql-driver
 go get -u -v github.com/go-sql-driver/mysql
+
 #database
 create database test charset=utf8;
