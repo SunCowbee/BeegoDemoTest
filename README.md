@@ -30,6 +30,9 @@ $ go get -u -v github.com/beego/bee
 
 go get -u -v github.com/go-sql-driver/mysql
 
+
 #database
 
+mysql -uroot -proot
+drop database test;
 create database test charset=utf8;
